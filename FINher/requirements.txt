@@ -1,0 +1,94 @@
+"
+
+Project Description
+
+FINher is a personal budget tracking and financial management application specifically designed to empower women. This easy-to-use platform allows users to:
+
+Track daily expenses
+
+Monitor investments
+
+Set and achieve financial goals
+
+Additionally, the app generates downloadable PDF reports and offers financial education resources. It is built using Python and Streamlit, providing a lightweight and user-friendly financial solution.
+
+Technologies Used
+
+Python 🐍
+
+Streamlit (Frontend + Backend GUI)
+
+Pandas (Data Handling)
+
+Plotly (Data Visualization)
+
+Matplotlib (Graphs)
+
+Features
+
+✅ Add Monthly Expenses
+
+✅ View Monthly Expense Charts (Bar Chart + Pie Chart)
+
+✅ Download Expense Report as PDF
+
+✅ Financial Education Module
+
+✅ Investment Portfolio Tracker
+
+✅ Automatic Savings Calculation
+
+✅ Recent Transactions Display
+
+How to Run the Project
+
+Step-by-Step Instructions
+
+Install Dependencies:Run the following command to install required libraries:
+
+pip install -r requirements.txt
+
+Start the Streamlit App:Launch the application using:
+
+streamlit run app.py
+
+Access the Application:The app will automatically open in your browser at:
+
+http://localhost:8501
+
+Navigation:Use the Sidebar to navigate between the following sections:
+
+Budget Tracker
+
+Investment Portfolio
+
+Financial Education
+
+
+Dependencies Required
+
+streamlit
+
+pandas
+
+plotly
+
+
+matplotlib
+
+pillow
+
+Future Improvements
+
+🔄 User Authentication System: Allow users to create accounts and securely log in.
+
+📈 Advanced Investment Portfolio Tracking: Include stock price APIs and automatic ROI calculations.
+
+🔔 Expense Notifications: Automatic alerts when expenses exceed predefined budgets.
+
+💬 Chatbot for Financial Advice: Basic AI chatbot to provide financial education and tips.
+
+🌐 Multi-Language Support: Enable the app in different languages.
+
+🔍 Search & Filter Transactions: Easily search and filter expense history.
+
